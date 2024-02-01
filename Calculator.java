@@ -46,6 +46,7 @@ public class Calculator {
 }
 */
 /*
+// Switch ex
 public class Calculator {
    public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
@@ -73,6 +74,8 @@ public class Calculator {
    }
 }
 */
+/*
+// Leep Year Show
 public class Calculator {
 public static void main(String[] args) {
 Scanner sc = new Scanner(System.in);
@@ -88,3 +91,4 @@ System.out.println(year + " is not a leap year");
 }
 }
 }
+*/
